@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyrus-Sobaan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning full stack web development
+- 👀 I’m interested in Open source contibution
+- 🌱 I’m currently learning full stack web development Using (MERN)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Sobaanqureshi1@gmail.com
 
