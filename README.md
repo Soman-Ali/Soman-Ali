@@ -1,43 +1,39 @@
 ## Hi there! 👋
 
-I'm **Soman Ali**, a passionate **Full Stack Web Developer** specializing in the **MERN** stack. Coding is not just my profession; it's my passion! Let's build something amazing together.
+I'm **Soman Ali**, a passionate **Full Stack Web Developer** specializing in the **MERN** stack with a keen interest in competitive programming. Let's connect and create something amazing together!
 
 ## About Me
 
-Based in **Jaipur, India**, I am a full-stack web developer with expertise in the MERN stack. My journey in coding is fueled by a love for competitive programming and a desire to solve real-world problems with technology.
+I'm a Full Stack Web Developer based in **Jaipur, India**. I love building web applications and solving complex problems through code. I am currently focusing on expanding my skill set in web development and competitive programming.
 
 ## Skills & Technologies
 
-html,css,react,nodejs,mongodb,express,git,github,tailwind,bootstrap,redux,linux,js,c,cpp,figma,ubuntu
+mongodb,express,react,nodejs,js,cpp,c,github,git,html,css,tailwind,bootstrap,ubuntu,wordpress,figma
 
 ## Top Projects
 
-- [MERN-journey-2025](https://github.com/Cyrus-Sobaan/MERN-journey-2025): First repo of 2025 🌟 **Stars:** 0 | **Language:** HTML | **Forks:** 0 | **Issues:** 0
-- [Full-stack-web-development-journey-using-MERN-](https://github.com/Cyrus-Sobaan/Full-stack-web-development-journey-using-MERN-): This repo is all about my Full stack MERN development journey. 🌟 **Stars:** 0 | **Language:** HTML | **Forks:** 0 | **Issues:** 0
-- [Projects](https://github.com/Cyrus-Sobaan/Projects): This is my First HTML project. 🌟 **Stars:** 2 | **Language:** HTML | **Forks:** 0 | **Issues:** 0
-- [Minor-Projects](https://github.com/Cyrus-Sobaan/Minor-Projects): A collection of minor projects showcasing various skills. 🌟 **Stars:** 0 | **Language:** CSS | **Forks:** 0 | **Issues:** 0
-- [Hacker-Form-Page](https://github.com/Cyrus-Sobaan/Hacker-Form-Page): A creative form page inspired by hacker culture. 🌟 **Stars:** 0 | **Language:** HTML | **Forks:** 0 | **Issues:** 0
+- [MERN-journey-2025](https://github.com/Cyrus-Sobaan/MERN-journey-2025) - First repo of 2025 ⭐️ 0 | Language: HTML
+- [Full-stack-web-development-journey-using-MERN-](https://github.com/Cyrus-Sobaan/Full-stack-web-development-journey-using-MERN-) - This repo is all about my Full stack MERN development journey ⭐️ 0 | Language: HTML
+- [Projects](https://github.com/Cyrus-Sobaan/Projects) - This is my First HTML project ⭐️ 2 | Language: HTML
+- [Minor-Projects](https://github.com/Cyrus-Sobaan/Minor-Projects) - Various minor projects ⭐️ 0 | Language: CSS
+- [Hacker-Form-Page](https://github.com/Cyrus-Sobaan/Hacker-Form-Page) - A hackathon style form page ⭐️ 0 | Language: HTML
 
 ## GitHub Stats
 
-## 🚀 GitHub Stats
-
-![Cyrus-Sobaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyrus-Sobaan&show_icons=true&count_private=true&theme=radical)
-
-- **Public Repositories:** 10
-- **Followers:** 1
-- **Following:** 0
+- Public Repositories: **10**  
+- Followers: **1**  
+- Following: **0**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyrus-Sobaan&show_icons=true&count_private=true&theme=radical)
 
 ## Recent Activity
 
-### 🔥 Recent Activity
-- **Pushed** to [MERN-journey-2025](https://github.com/Cyrus-Sobaan/MERN-journey-2025) - add first file in MERN 2025 repo and this repo is all about my learning journey. 
-- **Created** repository [MERN-journey-2025](https://github.com/Cyrus-Sobaan/MERN-journey-2025) - First repo of 2025.
+- **Pushed** to [MERN-journey-2025](https://github.com/Cyrus-Sobaan/MERN-journey-2025) on 2025-01-01
+- **Updated** README.md in [Cyrus-Sobaan](https://github.com/Cyrus-Sobaan) on 2025-01-01
+- **Created** repository [MERN-journey-2025](https://github.com/Cyrus-Sobaan/MERN-journey-2025) on 2025-01-01
 
 ## Latest Blog Posts
 
-### 📝 Latest Blog Posts
-Currently, I don't have any blog posts. But stay tuned for updates!
+Coming Soon! Stay Tuned for my latest articles and insights.
 
 ## Connect with Me
 
