@@ -10,7 +10,7 @@ I'm a Full Stack Web Developer specializing in the MERN stack with a keen intere
 * ✉️  You can contact me at [info.soman83@gmail.com](mailto:info.soman83@gmail.com)
 
 <a href="https://x.com/Soman_Ali_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/QureshiSobaan?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
+src="https://img.shields.io/twitter/follow/Soman-Ali?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
 /></a>
 
 ### Skills
