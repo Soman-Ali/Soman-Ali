@@ -7,9 +7,9 @@ Fullstack Developer
 I'm a Full Stack Web Developer specializing in the MERN stack with a keen interest in competitive programming. based in Jaipur, India. I love building web applications and solving complex problems through code. I am currently focusing on expanding my skill set in web development and competitive programming.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [Sobaanqureshi1@gmail.com](mailto:Sobaanqureshi1@gmail.com)
+* ✉️  You can contact me at [info.soman83@gmail.com](mailto:info.soman83@gmail.com)
 
-<a href="https://www.x.com/QureshiSobaan" target="_blank" rel="noreferrer"><img
+<a href="https://x.com/Soman_Ali_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/QureshiSobaan?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
 /></a>
 
